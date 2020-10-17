@@ -1,6 +1,5 @@
 
-
-following 
+Build by following 
 
 Part 1 (basic scene)
 https://www.youtube.com/watch?v=7MRonzqYJgw&ab_channel=GrantAbbitt
@@ -10,3 +9,6 @@ https://www.youtube.com/watch?v=L0AY61v6-M4&ab_channel=GrantAbbitt
 
 part 3 (man continued, editing)
 https://www.youtube.com/watch?v=WFzIbz2FN28&ab_channel=GrantAbbitt
+
+part 4 (man materials)
+https://www.youtube.com/watch?v=OFmKedu8r88&ab_channel=GrantAbbitt
