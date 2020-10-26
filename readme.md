@@ -25,3 +25,6 @@ Part 6 - finishing scne, i.e lighting.
 https://www.youtube.com/watch?v=g8683RF1COo&list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri&index=6&ab_channel=GrantAbbitt
 
 
+Moved on to add a rotating camera.
+https://www.youtube.com/watch?v=-2dd_qK54pg&ab_channel=GrantAbbitt
+
